@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hola, soy Milena González! 👋
 
-<!--
-**milena-727/milena-727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy una apasionada diseñadora gráfica con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
 
-Here are some ideas to get you started:
+## Tecnologías
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! 😊
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif?cid=6c09b952wwc3jaow1f63237p7zv3dqbdgdtaapdbzdf4vqul&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100">
+</p>
