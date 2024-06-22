@@ -12,5 +12,5 @@ Soy una apasionada diseñadora gráfica con un interés creciente en el desarrol
 ¡Gracias por visitar mi perfil! 😊
 
 <p align="center">
-  <img src="https://giphy.com/stickers/CartoonNetworkLatam-transparent-d7U9wE4REtinUIDeQ7" width="100" height="100">
+  <img src="https://media4.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif?cid=6c09b952wwc3jaow1f63237p7zv3dqbdgdtaapdbzdf4vqul&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100" height="100">
 </p>
