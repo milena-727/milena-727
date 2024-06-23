@@ -1,9 +1,26 @@
-# ¡Hola, soy Milena González! 👋
+<h1 align="center"><b>¡Hi, I'M Milena González C!👩🏻‍💻🫶🏻🤟🏻</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlNWRjempjeGxhOG05NDAxa29oN2xrNW9ib2NraTJyMzNtNTJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=program;smile;enjoy;learn;always+be+yourself..&hearts;++"></a>
+</p>
 
-## Sobre mí
+![BANNER PARA GITHUB2](https://github.com/milena-727/milena-727/assets/161752029/7b66b357-447f-4e51-a460-6b2a096f4e39)
+
+
+## Sobre mí 
+```js 
+<p about me</p>
+```
 Soy una apasionada diseñadora gráfica con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
 
-## Tecnologías
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me in code**
+```js
+const coders = {
+pronouns: "she" | "her",
+code: [Javascript, HTML, CSS, SCSS],
+tools: [Figma, Sql, Mysql, GitBash, Github],
+}
+```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tecnologías</b>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -12,5 +29,8 @@ Soy una apasionada diseñadora gráfica con un interés creciente en el desarrol
 ¡Gracias por visitar mi perfil! 😊
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif?cid=6c09b952wwc3jaow1f63237p7zv3dqbdgdtaapdbzdf4vqul&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFtaHBuaWV4MW1oc3FlNzl1cGh5bHZ4NmNveXdpYWpwMXd6YmtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuPvbg3qkZKJJeTI73/giphy.gif" width="30%">
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
