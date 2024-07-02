@@ -5,7 +5,11 @@
 
 ![BANNER PARA GITHUB4](https://github.com/milena-727/milena-727/assets/161752029/82a336ee-b5d9-4bee-a2fd-059688780151)
 
-
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Sobre mí </b>
 ```js 
@@ -36,4 +40,7 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Credits: [milena-727]()
+
+----------------------------------------------------------------------
+Credit: [milena-727](https://github.com/milena-727)
+
