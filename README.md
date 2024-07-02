@@ -7,7 +7,7 @@
 
 
 
-## Sobre mí 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Sobre mí </b>
 ```js 
 <p about me</p>
 ```
@@ -27,6 +27,7 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
+## **Thank you programmers for viewing my profile** 👩🏻‍💻👨🏻‍💻 <br>
 ¡Gracias por visitar mi perfil! 😊
 
 <p align="center">
@@ -35,3 +36,4 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Credits: [milena-727]()
