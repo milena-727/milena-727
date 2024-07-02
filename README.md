@@ -3,7 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=program;smile;enjoy;learn;always+be+yourself..&hearts;++"></a>
 </p>
 
-![BANNER PARA GITHUB2](https://github.com/milena-727/milena-727/assets/161752029/7b66b357-447f-4e51-a460-6b2a096f4e39)
+![BANNER PARA GITHUB4](https://github.com/milena-727/milena-727/assets/161752029/82a336ee-b5d9-4bee-a2fd-059688780151)
+
 
 
 ## Sobre mí 
