@@ -8,7 +8,7 @@
 
 <!--- snake -->
 <!--- Ghiphy -->
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Sobre mí </b>
 ```js 
@@ -36,6 +36,19 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFtaHBuaWV4MW1oc3FlNzl1cGh5bHZ4NmNveXdpYWpwMXd6YmtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuPvbg3qkZKJJeTI73/giphy.gif" width="30%">
 </p>
+
+<!--- Contacto -->
+<h3> Connect with me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqbGJmZGszZjlkZjZ0dXpqcHBvcm01bnMzYTNraWZ0bXd2YWVkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sdfOnB4OGtcdBTpoSY/giphy.webp" width="100px" align="left"></h3>  
+
+  <!--- linkedIn -->
+  <a href="www.linkedin.com/in/milenagc2794" target="blank"><img align="left"
+      src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"
+      alt="milena gonzalez" width="40px"/></a>
+  <!--- Instagram -->
+  <a href="https://www.instagram.com/animel_ilustradora/" target="blank"><img align="left"
+      src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
+      alt="milena gonzalez" width="40px"/></a>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
