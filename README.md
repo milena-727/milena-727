@@ -7,10 +7,8 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<!--- Ghiphy -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Sobre mí </b>
 ```js 
@@ -32,7 +30,7 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
-## **Thank you programmers for viewing my profile** 👩🏻‍💻👨🏻‍💻 <br>
+## **Thank you programmers for viewing my profile** 👩🏻‍💻👨🏻‍💻 
 ¡Gracias por visitar mi perfil! 😊
 
 <p align="center">
