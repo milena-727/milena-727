@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Hi, I'M Milena González C!👩🏻‍💻🫶🏻🤟🏻</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlNWRjempjeGxhOG05NDAxa29oN2xrNW9ib2NraTJyMzNtNTJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100">
+<h1 align="center"><b>¡Hi,programmers!👩🏻‍💻🫶🏻🤟🏻</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlNWRjempjeGxhOG05NDAxa29oN2xrNW9ib2NraTJyMzNtNTJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=program;smile;enjoy;learn;always+be+yourself..&hearts;++"></a>
 </p>
