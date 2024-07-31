@@ -16,7 +16,7 @@
 ```
 Soy una apasionada diseñadora gráfica con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me in code**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me in code**
 ```js
 const coders = {
 pronouns: "she" | "her",
