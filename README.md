@@ -41,11 +41,11 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 <h3> Connect with me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqbGJmZGszZjlkZjZ0dXpqcHBvcm01bnMzYTNraWZ0bXd2YWVkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sdfOnB4OGtcdBTpoSY/giphy.webp" width="100px" align="left"></h3>  
 
   <!--- linkedIn -->
-  <a href="https://www.linkedin.com/in/milenagc2794/" target="_blank"><img align="left"
+  <a href="https://www.linkedin.com/in/milenagc2794/" target="_blank" rel="noopener noreferrer"><img align="left"
       src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"
       alt="milena gonzalez" width="40px"/></a>
   <!--- Instagram -->
-  <a href="https://www.instagram.com/animel_ilustradora/" target="_blank"><img align="left"
+  <a href="https://www.instagram.com/animel_ilustradora/" target="_blank" rel="noopener noreferrer"><img align="left"
       src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
       alt="milena gonzalez" width="40px"/></a>
 
