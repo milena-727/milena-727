@@ -44,7 +44,8 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-
+[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)](https://www.adobe.com/)
+[![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366)](https://www.adobe.com/)
 ## **Thank you programmers for viewing my profile** 👩🏻‍💻🎮 
 ¡Gracias por visitar mi perfil! 😎
 
