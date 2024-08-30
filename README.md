@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hi,programmers!👩🏻‍💻🫶🏻🤟🏻</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlNWRjempjeGxhOG05NDAxa29oN2xrNW9ib2NraTJyMzNtNTJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=program;smile;enjoy;learn;always+be+yourself..&hearts;++"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
 </p>
 
 ![BANNER GITGUB 7](https://github.com/user-attachments/assets/64ae8823-be5b-4326-866e-4ab4f5bf3f99)
@@ -25,11 +25,12 @@
 <!--- Ghiphy -->
 <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Sobre mí </b>
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdkdTlrMGx4dTBxenZsOWFibmQ0dTJwMDV6NHluYXVjOWwydDcxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> <b> Sobre mí </b>
+
 ```js 
 <p about me</p>
 ```
-Soy una apasionada diseñadora gráfica con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
+Soy una apasionada Diseñadora Gráfica e Ilustradora con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me in code**
 ```js
@@ -55,12 +56,26 @@ tools: [Figma, Sql, Mysql, GitBash, Github],
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>GitHub Stats</b>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-727&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!--- FRASE ALEATORIA -->
+<p align="center">
+  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+</p>
+
 ## **Thank you programmers for viewing my profile** 👩🏻‍💻🎮 
 ¡Gracias por visitar mi perfil! 😎
-
+<!--- IMAGEN DE OSOS -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFtaHBuaWV4MW1oc3FlNzl1cGh5bHZ4NmNveXdpYWpwMXd6YmtwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuPvbg3qkZKJJeTI73/giphy.gif" width="30%">
 </p>
+
+
+<!--- CONTADOR DE VISITAS---->
+[![](https://visitcount.itsvg.in/api?id=milena-727&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
