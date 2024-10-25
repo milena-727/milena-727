@@ -30,14 +30,14 @@
 ```js 
 <p about me</p>
 ```
-Soy una apasionada Diseñadora Gráfica e Ilustradora con un interés creciente en el desarrollo de software. Actualmente, estoy ampliando mis habilidades en esta área estudiando desarrollo de software.
+Soy diseñadora gráfica e ilustradora con experiencia en la creación de identidades visuales y contenido atractivo, complementada por habilidades en diseño 3D y desarrollo web. Además, tengo conocimientos en el desarrollo de videojuegos utilizando Unity, lo que me permite integrar creatividad y tecnología en proyectos interactivos y visuales, creando experiencias únicas que destacan por su estética y funcionalidad.
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me in code**
 ```js
 const coders = {
 pronouns: "she" | "her",
-code: [Javascript, HTML, CSS, SCSS],
-tools: [Figma, Sql, Mysql, GitBash, Github],
+code: [Javascript, HTML, CSS, SCSS, C#],
+tools: [Figma, GitBash, Github, Unity, Illustrator, Photoshop, InDesign, Premiere, CapCut],
 }
 ```
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tecnologías</b>
