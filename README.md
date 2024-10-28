@@ -3,7 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
 </p>
 
-![BANNER GITGUB 7](https://github.com/user-attachments/assets/64ae8823-be5b-4326-866e-4ab4f5bf3f99)
+![BANNER GITHUB-7](https://github.com/user-attachments/assets/14722db5-a92a-480f-8234-cef14f7fc203)
+
 
 <!--- Contacto -->
 
