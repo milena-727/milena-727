@@ -44,10 +44,12 @@ tools: [Figma, GitBash, Github, Unity, Illustrator, Photoshop, InDesign, Premier
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tecnologías</b>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366)
@@ -63,7 +65,7 @@ tools: [Figma, GitBash, Github, Unity, Illustrator, Photoshop, InDesign, Premier
 
 <!--- FRASE ALEATORIA -->
 <p align="center">
-  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+  <img src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ## **Thank you programmers for viewing my profile** 👩🏻‍💻🎮 
