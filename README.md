@@ -3,20 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
 </p>
-<!--- Contacto -->
-
-<div align="center">
-  <!--- linkedIn -->
-   <a href="https://www.linkedin.com/in/milenagc2794/" target="_blank" rel="noopener noreferrer"><img 
-      src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"
-      alt="milena gonzalez" width="40px"/></a>
-  <!--- Instagram -->
-   <a href="https://www.instagram.com/animel_ilustradora/" target="_blank" rel="noopener noreferrer"><img 
-      src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
-      alt="milena gonzalez" width="40px"/></a>
-  <h2>Connect with me</h2> 
-  
-     
+ 
 <!--- muñequito -->
 <p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdkdTlrMGx4dTBxenZsOWFibmQ0dTJwMDV6NHluYXVjOWwydDcxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> <b> Sobre mí </b>
 
