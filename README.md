@@ -1,11 +1,8 @@
-<h1 align="center"><b>¡Hi,programmers!👩🏻‍💻🫶🏻🤟🏻</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlNWRjempjeGxhOG05NDAxa29oN2xrNW9ib2NraTJyMzNtNTJ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="100">
+![BANNER GITHUB NUEVO](https://github.com/user-attachments/assets/979ae218-82ee-4465-ba56-b0fcb2ed40b6)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
 </p>
-
-![BANNER GITHUB-7](https://github.com/user-attachments/assets/14722db5-a92a-480f-8234-cef14f7fc203)
-
-
 <!--- Contacto -->
 
 <div align="center">
@@ -17,31 +14,20 @@
    <a href="https://www.instagram.com/animel_ilustradora/" target="_blank" rel="noopener noreferrer"><img 
       src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
       alt="milena gonzalez" width="40px"/></a>
-  <div align="center">
-   <b align="center">Connect with me</b>
-  </div>
-</div>      
+  <h2>Connect with me</h2> 
+  
+     
+<!--- muñequito -->
+<p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdkdTlrMGx4dTBxenZsOWFibmQ0dTJwMDV6NHluYXVjOWwydDcxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> <b> Sobre mí </b>
 
-<!--- snake -->
-<!--- Ghiphy -->
-<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Soy diseñadora gráfica e ilustradora con experiencia en la creación de identidades visuales y contenido atractivo, complementada por habilidades en diseño 3D y desarrollo web. Además, tengo conocimientos en el desarrollo de videojuegos utilizando Unity, lo que me permite integrar creatividad y tecnología en proyectos interactivos y visuales, creando experiencias únicas que destacan por su estética y funcionalidad.</p>
+</div>
 
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdkdTlrMGx4dTBxenZsOWFibmQ0dTJwMDV6NHluYXVjOWwydDcxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> <b> Sobre mí </b>
+<!--- muñequito coder -->
 
-```js 
-<p about me</p>
-```
-Soy diseñadora gráfica e ilustradora con experiencia en la creación de identidades visuales y contenido atractivo, complementada por habilidades en diseño 3D y desarrollo web. Además, tengo conocimientos en el desarrollo de videojuegos utilizando Unity, lo que me permite integrar creatividad y tecnología en proyectos interactivos y visuales, creando experiencias únicas que destacan por su estética y funcionalidad.
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> <b>Tecnologías</b>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me in code**
-```js
-const coders = {
-pronouns: "she" | "her",
-code: [Javascript, HTML, CSS, SCSS, C#],
-tools: [Figma, GitBash, Github, Unity, Illustrator, Photoshop, InDesign, Premiere, CapCut],
-}
-```
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Tecnologías</b>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
