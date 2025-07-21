@@ -1,4 +1,5 @@
-![BANNER GITHUB NUEVO](https://github.com/user-attachments/assets/979ae218-82ee-4465-ba56-b0fcb2ed40b6)
+<img width="2542" height="1094" alt="BANNER GITHUB NUEVO2" src="https://github.com/user-attachments/assets/13ed77b7-1767-4e7e-8fb5-b0fe81cc5cd0" />
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
