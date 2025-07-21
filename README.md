@@ -23,7 +23,7 @@ Soy diseñadora gráfica e ilustradora con experiencia en la creación de identi
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366)
@@ -32,6 +32,9 @@ Soy diseñadora gráfica e ilustradora con experiencia en la creación de identi
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=flat&logo=openai&logoColor=white)
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>GitHub Stats</b>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-727&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
