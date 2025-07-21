@@ -2,8 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&color=FFD700&size=30&center=true&vCenter=true&width=600&height=100&lines=Never+doubt+you;Have+fun;Program;Smiles;Enjoy;Learn;Always+be+yourself..&hearts;++">
+  </a>
 </p>
+
  
 <!--- muñequito -->
 <p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdkdTlrMGx4dTBxenZsOWFibmQ0dTJwMDV6NHluYXVjOWwydDcxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k76eCxLAYwyjyFXClf/giphy.gif" width="50"> <b> Sobre mí </b>
